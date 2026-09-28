@@ -5,6 +5,8 @@
   "dotnet.codeLens.enableReferencesCodeLens": false,
   "editor.minimap.enabled": false,
   "breadcrumbs.enabled": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
   "editor.stickyScroll.enabled": false,
   "editor.inlayHints.enabled": "off",
   "editor.formatOnSave": true,
